@@ -1,4 +1,4 @@
-﻿// 
+﻿
 int GetNumber(string message)
 {
     Console.Write($"Введите значение {message}:");
@@ -17,10 +17,10 @@ string[] GetArray(int size)
 {
     string[] array = new string[size];
     for (int i = 0; i < size; i++)
-    { 
+    {
         array[i] = GetSt("элемента массива");
-               }
-        return array;
+    }
+    return array;
 }
 
 void Print(string[] arr)
@@ -35,22 +35,22 @@ string[] Select(string[] arr)
     int j = 0;
     string[] arrayNew = new string[arr.Length];
     for (int i = 0; i < arr.Length; i++)
-    {            
-        
+    {
+
         string num = arr[i];
-        char [] array = num.ToCharArray();
-        if ( array.Length < 4)
+        char[] array = num.ToCharArray();
+        if (array.Length < 4)
         {
-           arrayNew[j] = arr[i];
-            j=j+1;
-        }       
+            arrayNew[j] = arr[i];
+            j = j + 1;
+        }
     }
-         return arrayNew;
+    return arrayNew;
 }
 
 int size = GetNumber("размерности массива");
 string[] array = GetArray(size);
 Print(array);
- Console.WriteLine("Значения, длина которых меньше, либо равна 3 символам:");
+Console.WriteLine("Значения, длина которых меньше, либо равна 3 символам:");
 string[] array2 = Select(array);
 Print(array2);
