@@ -1,0 +1,15 @@
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.csproj.AssemblyReference.cache
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\bin\Debug\net6.0\KR_Zhuravleva.exe
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\bin\Debug\net6.0\KR_Zhuravleva.deps.json
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\bin\Debug\net6.0\KR_Zhuravleva.runtimeconfig.json
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\bin\Debug\net6.0\KR_Zhuravleva.dll
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\bin\Debug\net6.0\KR_Zhuravleva.pdb
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.dll
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\refint\KR_Zhuravleva.dll
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.pdb
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\KR_Zhuravleva.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\KR_Zhuravleva\obj\Debug\net6.0\ref\KR_Zhuravleva.dll
